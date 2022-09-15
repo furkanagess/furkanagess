@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **caglarrfurkann@gmail.com**
 
-- ⚡ Fun fact **I love watching films.( i think at the cinephile level :) )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
