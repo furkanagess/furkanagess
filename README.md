@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Kotlin, Java**
+- 🌱 I’m currently learning **Kotlin, Go**
 
 - 👯 I’m looking to collaborate on **Cross-Platform Projects**
 
