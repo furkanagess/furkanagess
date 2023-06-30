@@ -1,20 +1,9 @@
 <h1 align="center">Hi 👋, I'm Furkan </h1>
 <h3 align="center">A computer engineer who always tries to keep himself up to date in the software field</h3>
-<img align="right" alt="Rick and Morty" width="400" src="https://i.pinimg.com/originals/29/bd/26/29bd261d201e956588ee777d37d26800.gif">
+<img align="center" alt="Rick and Morty" width="400" src="https://i.pinimg.com/originals/29/bd/26/29bd261d201e956588ee777d37d26800.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanagess&label=Profile%20views&color=0e75b6&style=flat" alt="furkanagess" /> </p>
 
-<p align="left"> <a href="https://twitter.com/furkanages" target="blank"><img src="https://img.shields.io/twitter/follow/furkanages?logo=twitter&style=for-the-badge" alt="furkanages" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter**
-
-- 🌱 I’m currently learning **Kotlin, Go**
-
-- 👯 I’m looking to collaborate on **Cross-Platform Projects**
-
-- 💬 Ask me about **Flutter, Dart, UI/UX**
-
-- 📫 How to reach me **caglarrfurkann@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
