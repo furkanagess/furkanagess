@@ -2,7 +2,7 @@
 <h3 align="center">A computer engineer who always tries to keep himself up to date in the software field</h3>
 <img  alt="Rick and Morty" width="400" src="https://i.pinimg.com/originals/29/bd/26/29bd261d201e956588ee777d37d26800.gif">
 
-- Resume => https://github.com/furkanagess/furkanagess/files/13279819/caglar-furkan-cv.pdf
+- Resume  https://github.com/furkanagess/furkanagess/files/13279819/caglar-furkan-cv.pdf
 
 - 🔭 I’m currently working on **Flutter-Kotlin-Go**
 
