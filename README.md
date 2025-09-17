@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working on **Flutter-Kotlin-Go**
 
-- 🌱 I’m currently learning **Kotlin, Go**
+- 🌱 Play Store Apps : [Google Play Store](https://play.google.com/store/apps/developer?id=furkanages)
+  
+- 🌱 App Store Apps : [Apple App Store](https://apps.apple.com/us/developer/furkan-calar/id1807396889)
 
 - 👯 I’m looking to collaborate on **Mobile / Web Applications**
 
