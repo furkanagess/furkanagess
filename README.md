@@ -2,7 +2,7 @@
 <h3 align="center">Flutter developer · end-to-end mobile products</h3>
 
 <p align="center">
-  <b>Flutter</b> apps · <b>.NET</b> backend · <b>PostgreSQL</b> · <b>Docker</b> deploy · production <b>monitoring</b>
+  <b>Flutter</b> · <b>.NET</b> · <b>PostgreSQL</b> · <b>Docker</b> · <b>Monitoring</b>
 </p>
 
 <p align="center">
@@ -19,125 +19,99 @@
 
 ## 📱 App Showcase
 
-<p align="center">
-  <i>All apps available on iOS & Android</i>
-</p>
+<p align="center"><sub>iOS & Android · 4 published apps</sub></p>
 
-<table>
+<table width="100%" cellspacing="16" cellpadding="0">
   <tr>
-    <td width="50%" valign="top" align="center">
-
-<img src="assets/gallery_cleaner.png" width="90" alt="Gallery Cleaner"/>
-
-<br/>
-
-**Gallery Cleaner: Swipe Photo**
-
-<br/>
-
-<sub>🛠️ Utilities · Latest Release</sub>
-
-<br/><br/>
-
-AI-powered gallery cleaner. Find duplicates, remove blurry photos, and free up storage with a fast swipe interface.
-
-<br/><br/>
-
-<a href="https://apps.apple.com/us/app/gallery-cleaner-swipe-photo/id6754893118">
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
-</a>
-&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.furkanages.gallerycleaner">
-  <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/>
-</a>
-
+    <td width="50%" valign="top">
+      <table width="100%">
+        <tr>
+          <td align="center" style="padding: 28px 20px; border: 1px solid #d0d7de; border-radius: 16px;">
+            <img src="assets/gallery_cleaner.png" width="88" height="88" style="border-radius: 22%; box-shadow: 0 4px 14px rgba(0,0,0,0.12);" alt="Gallery Cleaner"/>
+            <br/><br/>
+            <b>Gallery Cleaner</b><br/>
+            <sub>Swipe Photo · Utilities</sub>
+            <br/><br/>
+            <p align="center">AI-powered gallery cleaner. Remove duplicates, blurry photos & free up storage with a swipe.</p>
+            <br/>
+            <a href="https://apps.apple.com/us/app/gallery-cleaner-swipe-photo/id6754893118">
+              <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
+            </a>
+            &nbsp;
+            <a href="https://play.google.com/store/apps/details?id=com.furkanages.gallerycleaner">
+              <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top" align="center">
-
-<img src="assets/spooky.png" width="90" alt="SpookyAI"/>
-
-<br/>
-
-**SpookyAI: Halloween Image Gen**
-
-<br/>
-
-<sub>📸 Photo & Video</sub>
-
-<br/><br/>
-
-Transform selfies into spooky Halloween scenes with AI. Hundreds of themed prompts for cinematic, creepy, and fun edits.
-
-<br/><br/>
-
-<a href="https://apps.apple.com/us/app/spookyai-halloween-image-gen/id6753217831">
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
-</a>
-&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.furkanages.spookyai">
-  <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/>
-</a>
-
+    <td width="50%" valign="top">
+      <table width="100%">
+        <tr>
+          <td align="center" style="padding: 28px 20px; border: 1px solid #d0d7de; border-radius: 16px;">
+            <img src="assets/spooky.png" width="88" height="88" style="border-radius: 22%; box-shadow: 0 4px 14px rgba(0,0,0,0.12);" alt="SpookyAI"/>
+            <br/><br/>
+            <b>SpookyAI</b><br/>
+            <sub>Halloween Image Gen · Photo & Video</sub>
+            <br/><br/>
+            <p align="center">Transform selfies into spooky Halloween scenes with AI-powered themed prompts.</p>
+            <br/>
+            <a href="https://apps.apple.com/us/app/spookyai-halloween-image-gen/id6753217831">
+              <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
+            </a>
+            &nbsp;
+            <a href="https://play.google.com/store/apps/details?id=com.furkanages.spookyai">
+              <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" align="center">
-
-<br/>
-
-<img src="assets/periodic.png" width="90" alt="Periodic Table"/>
-
-<br/>
-
-**Periodic Table: Learn & Play**
-
-<br/>
-
-<sub>📚 Education</sub>
-
-<br/><br/>
-
-Learn all 118 elements through quizzes, puzzles, trivia, and widgets. Gamified chemistry for students and teachers.
-
-<br/><br/>
-
-<a href="https://apps.apple.com/us/app/periodic-table-learn-play/id6752439893">
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
-</a>
-&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.furkanages.elements">
-  <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/>
-</a>
-
+    <td width="50%" valign="top">
+      <table width="100%">
+        <tr>
+          <td align="center" style="padding: 28px 20px; border: 1px solid #d0d7de; border-radius: 16px;">
+            <img src="assets/periodic.png" width="88" height="88" style="border-radius: 22%; box-shadow: 0 4px 14px rgba(0,0,0,0.12);" alt="Periodic Table"/>
+            <br/><br/>
+            <b>Periodic Table</b><br/>
+            <sub>Learn & Play · Education</sub>
+            <br/><br/>
+            <p align="center">Master all 118 elements with quizzes, puzzles, trivia & home screen widgets.</p>
+            <br/>
+            <a href="https://apps.apple.com/us/app/periodic-table-learn-play/id6752439893">
+              <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
+            </a>
+            &nbsp;
+            <a href="https://play.google.com/store/apps/details?id=com.furkanages.elements">
+              <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top" align="center">
-
-<br/>
-
-<img src="assets/quicko.png" width="90" alt="Quicko"/>
-
-<br/>
-
-**Quicko – Minigames**
-
-<br/>
-
-<sub>🎮 Games</sub>
-
-<br/><br/>
-
-10+ casual minigames for brain training. Global leaderboards, favorites, achievements, and 11-language support.
-
-<br/><br/>
-
-<a href="https://apps.apple.com/us/app/quicko-minigames/id6751204576">
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
-</a>
-&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.furkanages.quicko_app">
-  <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/>
-</a>
-
+    <td width="50%" valign="top">
+      <table width="100%">
+        <tr>
+          <td align="center" style="padding: 28px 20px; border: 1px solid #d0d7de; border-radius: 16px;">
+            <img src="assets/quicko.png" width="88" height="88" style="border-radius: 22%; box-shadow: 0 4px 14px rgba(0,0,0,0.12);" alt="Quicko"/>
+            <br/><br/>
+            <b>Quicko</b><br/>
+            <sub>Minigames · Games</sub>
+            <br/><br/>
+            <p align="center">10+ brain training minigames with leaderboards, favorites & 11-language support.</p>
+            <br/>
+            <a href="https://apps.apple.com/us/app/quicko-minigames/id6751204576">
+              <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
+            </a>
+            &nbsp;
+            <a href="https://play.google.com/store/apps/details?id=com.furkanages.quicko_app">
+              <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
