@@ -39,15 +39,17 @@
     <td width="50%" valign="top">
       <table width="100%">
         <tr>
-          <td align="center" style="padding: 28px 20px; border: 1px solid #d0d7de; border-radius: 16px; min-height: 330px; vertical-align: top;">
+          <td align="center" style="padding: 28px 20px; border: 1px solid #d0d7de; border-radius: 16px; min-height: 380px; vertical-align: top;">
             <img src="assets/gallery_cleaner.png" width="88" height="88" style="border-radius: 22%; box-shadow: 0 4px 14px rgba(0,0,0,0.12);" alt="Gallery Cleaner"/>
             <br/><br/>
             <b>Gallery Cleaner</b><br/>
             <sub>Swipe Photo · Utilities</sub>
             <br/><br/>
-            <p align="center" style="min-height: 78px; max-width: 300px; margin: 0 auto; line-height: 1.55; font-size: 14px;">
+            <p align="center" style="min-height: 105px; max-width: 300px; margin: 0 auto; line-height: 1.55; font-size: 14px;">
               Clean up your camera roll the fun way — swipe left to delete, right to keep.
-              AI finds duplicates, blurry shots, and clutter so you can reclaim storage in minutes, with full control before anything is removed.
+              AI automatically detects duplicates, blurry shots, screenshots, and low-quality images cluttering your storage.
+              Review everything before deleting and reclaim gigabytes in minutes, with full control at every step.
+              Built with privacy in mind — all analysis runs locally on your device.
             </p>
             <br/>
             <table align="center" cellspacing="6" cellpadding="0">
@@ -71,15 +73,17 @@
     <td width="50%" valign="top">
       <table width="100%">
         <tr>
-          <td align="center" style="padding: 28px 20px; border: 1px solid #d0d7de; border-radius: 16px; min-height: 330px; vertical-align: top;">
+          <td align="center" style="padding: 28px 20px; border: 1px solid #d0d7de; border-radius: 16px; min-height: 380px; vertical-align: top;">
             <img src="assets/spooky.png" width="88" height="88" style="border-radius: 22%; box-shadow: 0 4px 14px rgba(0,0,0,0.12);" alt="SpookyAI"/>
             <br/><br/>
             <b>SpookyAI</b><br/>
             <sub>Halloween Image Gen · Photo & Video</sub>
             <br/><br/>
-            <p align="center" style="min-height: 78px; max-width: 300px; margin: 0 auto; line-height: 1.55; font-size: 14px;">
-              Turn any selfie into a cinematic Halloween masterpiece with AI.
-              Choose from hundreds of spooky prompts — haunted houses, witches, pumpkins & more — and generate high-quality art in seconds.
+            <p align="center" style="min-height: 105px; max-width: 300px; margin: 0 auto; line-height: 1.55; font-size: 14px;">
+              Turn any selfie into a cinematic Halloween masterpiece with the power of AI.
+              Browse hundreds of themed prompts — haunted houses, witches, pumpkins, creepy portraits, and fantasy horror styles.
+              Generate stunning, share-ready images in seconds without any editing skills required.
+              Perfect for seasonal profile pictures, social posts, and creative Halloween fun.
             </p>
             <br/>
             <table align="center" cellspacing="6" cellpadding="0">
@@ -105,15 +109,17 @@
     <td width="50%" valign="top">
       <table width="100%">
         <tr>
-          <td align="center" style="padding: 28px 20px; border: 1px solid #d0d7de; border-radius: 16px; min-height: 330px; vertical-align: top;">
+          <td align="center" style="padding: 28px 20px; border: 1px solid #d0d7de; border-radius: 16px; min-height: 380px; vertical-align: top;">
             <img src="assets/periodic.png" width="88" height="88" style="border-radius: 22%; box-shadow: 0 4px 14px rgba(0,0,0,0.12);" alt="Periodic Table"/>
             <br/><br/>
             <b>Periodic Table</b><br/>
             <sub>Learn & Play · Education</sub>
             <br/><br/>
-            <p align="center" style="min-height: 78px; max-width: 300px; margin: 0 auto; line-height: 1.55; font-size: 14px;">
-              Discover, play, and master all 118 elements the engaging way.
-              Rich element profiles, quizzes, puzzles, trivia, and home screen widgets make chemistry stick — for students, teachers, and science lovers alike.
+            <p align="center" style="min-height: 105px; max-width: 300px; margin: 0 auto; line-height: 1.55; font-size: 14px;">
+              Discover, play, and master all 118 elements through an engaging, gamified learning experience.
+              Explore rich element profiles covering atomic data, real-world uses, history, groups, and periods.
+              Test yourself with quizzes, puzzles, and category-based trivia — from the first 20 elements to the full table.
+              Daily widgets and a reward system keep students, teachers, and science enthusiasts coming back.
             </p>
             <br/>
             <table align="center" cellspacing="6" cellpadding="0">
@@ -137,15 +143,17 @@
     <td width="50%" valign="top">
       <table width="100%">
         <tr>
-          <td align="center" style="padding: 28px 20px; border: 1px solid #d0d7de; border-radius: 16px; min-height: 330px; vertical-align: top;">
+          <td align="center" style="padding: 28px 20px; border: 1px solid #d0d7de; border-radius: 16px; min-height: 380px; vertical-align: top;">
             <img src="assets/quicko.png" width="88" height="88" style="border-radius: 22%; box-shadow: 0 4px 14px rgba(0,0,0,0.12);" alt="Quicko"/>
             <br/><br/>
             <b>Quicko</b><br/>
             <sub>Minigames · Games</sub>
             <br/><br/>
-            <p align="center" style="min-height: 78px; max-width: 300px; margin: 0 auto; line-height: 1.55; font-size: 14px;">
-              Instant brain training in your pocket. Play 10+ quick minigames built for focus, memory, and reflexes.
-              Climb global leaderboards, track personal bests, save favorites, and enjoy polished gameplay in 11 languages.
+            <p align="center" style="min-height: 105px; max-width: 300px; margin: 0 auto; line-height: 1.55; font-size: 14px;">
+              Instant brain training in your pocket with 10+ fast, snackable minigames designed for daily play.
+              Sharpen your focus, memory, and reflexes across diverse cognitive challenges — all in short sessions perfect for breaks.
+              Compete on global leaderboards, beat your personal bests, and save favorite games for one-tap access.
+              Polished UI, sound effects, dark mode, and support for 11 languages.
             </p>
             <br/>
             <table align="center" cellspacing="6" cellpadding="0">
