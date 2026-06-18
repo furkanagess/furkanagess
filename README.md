@@ -34,101 +34,49 @@
 
 <p align="center"><sub>iOS & Android · 4 published apps</sub></p>
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" align="left" valign="top" style="padding: 14px 12px; border: 1px solid #d0d7de; border-radius: 16px;">
-
-<img src="assets/gallery_cleaner.png" width="72" height="72" style="border-radius: 22%;" alt="Gallery Cleaner"/>
-<br/><br/>
-<b>Gallery Cleaner</b><br/>
-Swipe Photo · Utilities
-<br/><br/>
-
-Clean up your camera roll the fun way.<br/>
-Swipe left to delete, right to keep.<br/>
-AI finds duplicates, blurry shots & clutter.<br/>
-Privacy-first — all analysis runs on-device.
-
-<br/><br/>
-<a href="https://apps.apple.com/us/app/gallery-cleaner-swipe-photo/id6754893118">
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
-</a>
-<br/>
-<a href="https://play.google.com/store/apps/details?id=com.furkanages.gallerycleaner">
-  <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/>
-</a>
-
+      <img src="assets/gallery_cleaner.png" width="72" height="72" style="border-radius: 22%;" alt="Gallery Cleaner"/><br/><br/>
+      <b>Gallery Cleaner</b><br/>Swipe Photo · Utilities<br/><br/>
+      Clean up your camera roll the fun way.<br/>
+      Swipe left to delete, right to keep.<br/>
+      AI finds duplicates, blurry shots & clutter.<br/>
+      Privacy-first — all analysis runs on-device.<br/><br/>
+      <a href="https://apps.apple.com/us/app/gallery-cleaner-swipe-photo/id6754893118"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/></a><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.furkanages.gallerycleaner"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/></a>
     </td>
     <td width="50%" align="left" valign="top" style="padding: 14px 12px; border: 1px solid #d0d7de; border-radius: 16px;">
-
-<img src="assets/spooky.png" width="72" height="72" style="border-radius: 22%;" alt="SpookyAI"/>
-<br/><br/>
-<b>SpookyAI</b><br/>
-Halloween Image Gen · Photo & Video
-<br/><br/>
-
-Turn selfies into cinematic Halloween art.<br/>
-Hundreds of spooky AI prompts to explore.<br/>
-Generate share-ready images in seconds.<br/>
-Perfect for profiles, posts & seasonal fun.
-
-<br/><br/>
-<a href="https://apps.apple.com/us/app/spookyai-halloween-image-gen/id6753217831">
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
-</a>
-<br/>
-<a href="https://play.google.com/store/apps/details?id=com.furkanages.spookyai">
-  <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/>
-</a>
-
+      <img src="assets/spooky.png" width="72" height="72" style="border-radius: 22%;" alt="SpookyAI"/><br/><br/>
+      <b>SpookyAI</b><br/>Halloween Image Gen · Photo & Video<br/><br/>
+      Turn selfies into cinematic Halloween art.<br/>
+      Hundreds of spooky AI prompts to explore.<br/>
+      Generate share-ready images in seconds.<br/>
+      Perfect for profiles, posts & seasonal fun.<br/><br/>
+      <a href="https://apps.apple.com/us/app/spookyai-halloween-image-gen/id6753217831"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/></a><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.furkanages.spookyai"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="left" valign="top" style="padding: 14px 12px; border: 1px solid #d0d7de; border-radius: 16px;">
-
-<img src="assets/periodic.png" width="72" height="72" style="border-radius: 22%;" alt="Periodic Table"/>
-<br/><br/>
-<b>Periodic Table</b><br/>
-Learn & Play · Education
-<br/><br/>
-
-Master all 118 elements through play.<br/>
-Rich profiles, quizzes, puzzles & trivia.<br/>
-From first 20 elements to the full table.<br/>
-Widgets & badges for daily learning.
-
-<br/><br/>
-<a href="https://apps.apple.com/us/app/periodic-table-learn-play/id6752439893">
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
-</a>
-<br/>
-<a href="https://play.google.com/store/apps/details?id=com.furkanages.elements">
-  <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/>
-</a>
-
+      <img src="assets/periodic.png" width="72" height="72" style="border-radius: 22%;" alt="Periodic Table"/><br/><br/>
+      <b>Periodic Table</b><br/>Learn & Play · Education<br/><br/>
+      Master all 118 elements through play.<br/>
+      Rich profiles, quizzes, puzzles & trivia.<br/>
+      From first 20 elements to the full table.<br/>
+      Widgets & badges for daily learning.<br/><br/>
+      <a href="https://apps.apple.com/us/app/periodic-table-learn-play/id6752439893"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/></a><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.furkanages.elements"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/></a>
     </td>
     <td width="50%" align="left" valign="top" style="padding: 14px 12px; border: 1px solid #d0d7de; border-radius: 16px;">
-
-<img src="assets/quicko.png" width="72" height="72" style="border-radius: 22%;" alt="Quicko"/>
-<br/><br/>
-<b>Quicko</b><br/>
-Minigames · Games
-<br/><br/>
-
-10+ fast minigames for daily brain training.<br/>
-Sharpen focus, memory & reflexes in short sessions.<br/>
-Global leaderboards & personal bests.<br/>
-Dark mode, sound effects & 11 languages.
-
-<br/><br/>
-<a href="https://apps.apple.com/us/app/quicko-minigames/id6751204576">
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
-</a>
-<br/>
-<a href="https://play.google.com/store/apps/details?id=com.furkanages.quicko_app">
-  <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/>
-</a>
-
+      <img src="assets/quicko.png" width="72" height="72" style="border-radius: 22%;" alt="Quicko"/><br/><br/>
+      <b>Quicko</b><br/>Minigames · Games<br/><br/>
+      10+ fast minigames for daily brain training.<br/>
+      Sharpen focus, memory & reflexes in short sessions.<br/>
+      Global leaderboards & personal bests.<br/>
+      Dark mode, sound effects & 11 languages.<br/><br/>
+      <a href="https://apps.apple.com/us/app/quicko-minigames/id6751204576"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/></a><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.furkanages.quicko_app"><img src="https://img.shields.io/badge/Google_Play-3DDC84?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/></a>
     </td>
   </tr>
 </table>
