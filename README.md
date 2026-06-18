@@ -1,17 +1,86 @@
-<h1 align="center">Hi 👋, I'm Furkan Çağlar</h1>
-<h3 align="center">A computer engineer who always tries to keep himself up to date in the software field</h3>
-<img  alt="Rick and Morty" width="400" src="https://i.pinimg.com/originals/29/bd/26/29bd261d201e956588ee777d37d26800.gif">
+# Hi 👋, I'm Furkan Çağlar
 
-- [Click Here for my Resume!](https://github.com/user-attachments/files/22393646/caglar-furkan-resume.16.pdf)
+### Flutter developer building useful, fun, and polished mobile apps — end to end
+
+I handle the full product lifecycle: **Flutter** mobile apps, **.NET** backend APIs, **PostgreSQL** databases, **Docker** deployment, and production **monitoring**.
 
 
-- 🌱 Play Store Apps : [Google Play Store](https://play.google.com/store/apps/developer?id=furkanages)
+
+---
+
+## 📱 App Showcase
+
+Apps published on the [App Store](https://apps.apple.com/us/developer/furkan-calar/id1807396889).
+
   
-- 🌱 App Store Apps : [Apple App Store](https://apps.apple.com/us/developer/furkan-calar/id1807396889)
-
-- 📝 I regularly write articles on [https://medium.com/@caglarrfurkann](https://medium.com/@caglarrfurkann)
-
-- 📫 How to reach me **caglarrfurkann@gmail.com**
 
 
+### Gallery Cleaner: Swipe Photo
 
+Utilities · Latest Release
+
+
+|     |                                                                                                                     |
+| --- | ------------------------------------------------------------------------------------------------------------------- |
+|     | AI-powered gallery cleaner. Find duplicates, remove blurry photos, and free up storage with a fast swipe interface. |
+|     |                                                                                                                     |
+
+
+  
+
+
+### SpookyAI: Halloween Image Gen
+
+Photo & Video
+
+
+|     |                                                                                                                          |
+| --- | ------------------------------------------------------------------------------------------------------------------------ |
+|     | Transform selfies into spooky Halloween scenes with AI. Hundreds of themed prompts for cinematic, creepy, and fun edits. |
+|     |                                                                                                                          |
+
+
+  
+
+
+### Periodic Table: Learn & Play
+
+Education
+
+
+|     |                                                                                                                     |
+| --- | ------------------------------------------------------------------------------------------------------------------- |
+|     | Learn all 118 elements through quizzes, puzzles, trivia, and widgets. Gamified chemistry for students and teachers. |
+|     |                                                                                                                     |
+
+
+  
+
+
+### Quicko - Minigames
+
+Games
+
+
+|     |                                                                                                                 |
+| --- | --------------------------------------------------------------------------------------------------------------- |
+|     | 10+ casual minigames for brain training. Global leaderboards, favorites, achievements, and 11-language support. |
+|     |                                                                                                                 |
+
+
+---
+
+## 👨‍💻 About Me
+
+- Computer engineer focused on **full-stack mobile product development**
+- **Flutter** for cross-platform iOS & Android apps
+- **.NET** backend services and REST APIs
+- **PostgreSQL** for data modeling and persistence
+- **Docker** for containerized deployment
+- Production **monitoring** and observability for live apps
+- [Resume (PDF)](https://github.com/user-attachments/files/22393646/caglar-furkan-resume.16.pdf)
+- Writing on [Medium](https://medium.com/@caglarrfurkann)
+
+## 📫 Contact
+
+**[caglarrfurkann@gmail.com](mailto:caglarrfurkann@gmail.com)**
