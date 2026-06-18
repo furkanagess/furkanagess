@@ -19,11 +19,22 @@ Apps published on the [App Store](https://apps.apple.com/us/developer/furkan-cal
 
 Utilities · Latest Release
 
-
-|     |                                                                                                                     |
-| --- | ------------------------------------------------------------------------------------------------------------------- |
-|     | AI-powered gallery cleaner. Find duplicates, remove blurry photos, and free up storage with a fast swipe interface. |
-|     |                                                                                                                     |
+<table>
+  <tr>
+    <td width="120" align="center" valign="top">
+      <a href="https://apps.apple.com/us/app/gallery-cleaner-swipe-photo/id6754893118">
+        <img src="assets/gallery_cleaner.png" width="100" alt="Gallery Cleaner"/>
+      </a>
+    </td>
+    <td valign="top">
+      AI-powered gallery cleaner. Find duplicates, remove blurry photos, and free up storage with a fast swipe interface.
+      <br/><br/>
+      <a href="https://apps.apple.com/us/app/gallery-cleaner-swipe-photo/id6754893118">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
   
@@ -33,11 +44,22 @@ Utilities · Latest Release
 
 Photo & Video
 
-
-|     |                                                                                                                          |
-| --- | ------------------------------------------------------------------------------------------------------------------------ |
-|     | Transform selfies into spooky Halloween scenes with AI. Hundreds of themed prompts for cinematic, creepy, and fun edits. |
-|     |                                                                                                                          |
+<table>
+  <tr>
+    <td width="120" align="center" valign="top">
+      <a href="https://apps.apple.com/us/app/spookyai-halloween-image-gen/id6753217831">
+        <img src="assets/spooky.png" width="100" alt="SpookyAI"/>
+      </a>
+    </td>
+    <td valign="top">
+      Transform selfies into spooky Halloween scenes with AI. Hundreds of themed prompts for cinematic, creepy, and fun edits.
+      <br/><br/>
+      <a href="https://apps.apple.com/us/app/spookyai-halloween-image-gen/id6753217831">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
   
@@ -47,11 +69,22 @@ Photo & Video
 
 Education
 
-
-|     |                                                                                                                     |
-| --- | ------------------------------------------------------------------------------------------------------------------- |
-|     | Learn all 118 elements through quizzes, puzzles, trivia, and widgets. Gamified chemistry for students and teachers. |
-|     |                                                                                                                     |
+<table>
+  <tr>
+    <td width="120" align="center" valign="top">
+      <a href="https://apps.apple.com/us/app/periodic-table-learn-play/id6752439893">
+        <img src="assets/periodic.png" width="100" alt="Periodic Table"/>
+      </a>
+    </td>
+    <td valign="top">
+      Learn all 118 elements through quizzes, puzzles, trivia, and widgets. Gamified chemistry for students and teachers.
+      <br/><br/>
+      <a href="https://apps.apple.com/us/app/periodic-table-learn-play/id6752439893">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
   
@@ -61,11 +94,22 @@ Education
 
 Games
 
-
-|     |                                                                                                                 |
-| --- | --------------------------------------------------------------------------------------------------------------- |
-|     | 10+ casual minigames for brain training. Global leaderboards, favorites, achievements, and 11-language support. |
-|     |                                                                                                                 |
+<table>
+  <tr>
+    <td width="120" align="center" valign="top">
+      <a href="https://apps.apple.com/us/app/quicko-minigames/id6751204576">
+        <img src="assets/quicko.png" width="100" alt="Quicko"/>
+      </a>
+    </td>
+    <td valign="top">
+      10+ casual minigames for brain training. Global leaderboards, favorites, achievements, and 11-language support.
+      <br/><br/>
+      <a href="https://apps.apple.com/us/app/quicko-minigames/id6751204576">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
