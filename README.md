@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/files/22393646/caglar-furkan-resume.16.pdf" download>
+  <a href="assets/1furkancaglar-resume.pdf" download>
     <img src="https://img.shields.io/badge/⬇️_Download_Resume-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
