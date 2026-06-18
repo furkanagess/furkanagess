@@ -4,16 +4,11 @@
 
 I handle the full product lifecycle: **Flutter** mobile apps, **.NET** backend APIs, **PostgreSQL** databases, **Docker** deployment, and production **monitoring**.
 
-
-
 ---
 
 ## 📱 App Showcase
 
 Apps published on the [App Store](https://apps.apple.com/us/developer/furkan-calar/id1807396889).
-
-  
-
 
 ### Gallery Cleaner: Swipe Photo
 
@@ -36,10 +31,6 @@ Utilities · Latest Release
   </tr>
 </table>
 
-
-  
-
-
 ### SpookyAI: Halloween Image Gen
 
 Photo & Video
@@ -60,10 +51,6 @@ Photo & Video
     </td>
   </tr>
 </table>
-
-
-  
-
 
 ### Periodic Table: Learn & Play
 
@@ -86,10 +73,6 @@ Education
   </tr>
 </table>
 
-
-  
-
-
 ### Quicko - Minigames
 
 Games
@@ -110,7 +93,6 @@ Games
     </td>
   </tr>
 </table>
-
 
 ---
 
