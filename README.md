@@ -34,22 +34,20 @@
 
 <p align="center"><sub>iOS & Android · 4 published apps</sub></p>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" align="center" valign="top" style="padding: 16px 10px; border: 1px solid #d0d7de; border-radius: 16px;">
+    <td width="50%" align="left" valign="top" style="padding: 14px 12px; border: 1px solid #d0d7de; border-radius: 16px;">
 
 <img src="assets/gallery_cleaner.png" width="72" height="72" style="border-radius: 22%;" alt="Gallery Cleaner"/>
 <br/><br/>
 <b>Gallery Cleaner</b><br/>
-<sub>Swipe Photo · Utilities</sub>
+Swipe Photo · Utilities
 <br/><br/>
 
-<sub>
 Clean up your camera roll the fun way.<br/>
 Swipe left to delete, right to keep.<br/>
 AI finds duplicates, blurry shots & clutter.<br/>
 Privacy-first — all analysis runs on-device.
-</sub>
 
 <br/><br/>
 <a href="https://apps.apple.com/us/app/gallery-cleaner-swipe-photo/id6754893118">
@@ -61,20 +59,18 @@ Privacy-first — all analysis runs on-device.
 </a>
 
     </td>
-    <td width="50%" align="center" valign="top" style="padding: 16px 10px; border: 1px solid #d0d7de; border-radius: 16px;">
+    <td width="50%" align="left" valign="top" style="padding: 14px 12px; border: 1px solid #d0d7de; border-radius: 16px;">
 
 <img src="assets/spooky.png" width="72" height="72" style="border-radius: 22%;" alt="SpookyAI"/>
 <br/><br/>
 <b>SpookyAI</b><br/>
-<sub>Halloween Image Gen · Photo & Video</sub>
+Halloween Image Gen · Photo & Video
 <br/><br/>
 
-<sub>
 Turn selfies into cinematic Halloween art.<br/>
 Hundreds of spooky AI prompts to explore.<br/>
 Generate share-ready images in seconds.<br/>
 Perfect for profiles, posts & seasonal fun.
-</sub>
 
 <br/><br/>
 <a href="https://apps.apple.com/us/app/spookyai-halloween-image-gen/id6753217831">
@@ -88,20 +84,18 @@ Perfect for profiles, posts & seasonal fun.
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top" style="padding: 16px 10px; border: 1px solid #d0d7de; border-radius: 16px;">
+    <td width="50%" align="left" valign="top" style="padding: 14px 12px; border: 1px solid #d0d7de; border-radius: 16px;">
 
 <img src="assets/periodic.png" width="72" height="72" style="border-radius: 22%;" alt="Periodic Table"/>
 <br/><br/>
 <b>Periodic Table</b><br/>
-<sub>Learn & Play · Education</sub>
+Learn & Play · Education
 <br/><br/>
 
-<sub>
 Master all 118 elements through play.<br/>
 Rich profiles, quizzes, puzzles & trivia.<br/>
 From first 20 elements to the full table.<br/>
 Widgets & badges for daily learning.
-</sub>
 
 <br/><br/>
 <a href="https://apps.apple.com/us/app/periodic-table-learn-play/id6752439893">
@@ -113,20 +107,18 @@ Widgets & badges for daily learning.
 </a>
 
     </td>
-    <td width="50%" align="center" valign="top" style="padding: 16px 10px; border: 1px solid #d0d7de; border-radius: 16px;">
+    <td width="50%" align="left" valign="top" style="padding: 14px 12px; border: 1px solid #d0d7de; border-radius: 16px;">
 
 <img src="assets/quicko.png" width="72" height="72" style="border-radius: 22%;" alt="Quicko"/>
 <br/><br/>
 <b>Quicko</b><br/>
-<sub>Minigames · Games</sub>
+Minigames · Games
 <br/><br/>
 
-<sub>
 10+ fast minigames for daily brain training.<br/>
 Sharpen focus, memory & reflexes in short sessions.<br/>
 Global leaderboards & personal bests.<br/>
 Dark mode, sound effects & 11 languages.
-</sub>
 
 <br/><br/>
 <a href="https://apps.apple.com/us/app/quicko-minigames/id6751204576">
